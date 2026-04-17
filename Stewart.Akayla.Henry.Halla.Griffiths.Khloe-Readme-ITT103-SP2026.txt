@@ -1,0 +1,27 @@
+Authors : Khloe Griffiths, Akayla Stewart, Halla Henry
+Date Created: April 17, 2026
+Course: ITT103
+GitHub Public URL to Code: https://github.com/KhloeGR/ITT103-POS-System
+
+PURPOSE:
+This is a Point of sale system (POS) for Best Buy Retail Store.
+This POS helps cashiers process customer orders more efficiently.This system was built and tested using Python 3.14 on Windows. 
+
+HOW TO RUN:
+1. Install Python.
+2. Open the file in IDLE.
+3. Press F5 to run.
+4. Use the menu numbers to navigate and enter your choice(s).
+
+FEATURES:
+- 14 products with prices and stock.
+- Add and remove items from cart.
+- Checkout with 10% tax.
+- 5% discount for bills over $5000.
+- Receipt printed after every transaction.
+- Low stock warning if item falls below 5.
+- Multiple transactions in one session.
+
+ASSUMPTIONS AND LIMITATIONS:
+- Product catalog is fixed and cannot be changed during the session.
+- The prices are in Jamaican dollars, and cannot be changed.
